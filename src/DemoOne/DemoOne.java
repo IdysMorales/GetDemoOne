@@ -5,6 +5,14 @@ public class DemoOne {
 		System.out.println("Demo ONe...");
 
 		System.out.println("Hello...");
-
+		System.out.println("Second commit..");
+		
+		boolean isSunday =  true;
+		if(isSunday) {
+			System.out.println("we won..");
+			
+		}else {
+			System.out.println("yep.");
+		}
 	}
 }
