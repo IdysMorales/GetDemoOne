@@ -14,5 +14,10 @@ public class DemoOne {
 		}else {
 			System.out.println("yep.");
 		}
+		
+		
+		int a = 10;
+		int b = 20;
+		System.out.println(a+b);
 	}
 }
